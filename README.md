@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bsm255
-- 👀 I’m interested in data analytics,, business analysis sports sceience 
+- 👀 I’m interested in data analytics,, business analysis sports science 
 - 🌱 I’m currently learning ERP business central development.
 
 <!---
